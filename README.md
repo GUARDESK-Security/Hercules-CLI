@@ -1,2 +1,2 @@
 # Hercules-CLI
-Athena is a DoS Tool written in Python
+Hercules is a DoS Tool written in Python
