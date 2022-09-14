@@ -3,7 +3,7 @@ from concurrent.futures import thread
 import socket
 import threading
 os.system("clear")
-os.system("toilet Hercules CLI")
+os.system("toilet HerculesCLI")
 print("© 2022 GUARDESK Security LTD.")
 target = str(input("Insert Target IP: "))
 port = int(input("Insert Port: "))
